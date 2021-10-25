@@ -1,7 +1,9 @@
 # Market APP
 
-## Rutas
+## Rutas de la aplicación
 
 - About
 - Bienvenida al sitio
-- Market del sitio
+- Introducción
+- Bienvenida
+- Marketplace
