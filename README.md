@@ -1,6 +1,7 @@
-# Curso Prueba
+# Curso Prueba Version 2
 
-## Rutas
+## Rutas de la aplicación
 
+- Introducción
 - Bienvenida
-- Market
+- Marketplace
