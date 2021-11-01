@@ -12,3 +12,5 @@
 - Sucursales
 - Objetivos
 - Esto es un fix
+
+Esto es una mejora de mi fix :) 
