@@ -11,4 +11,6 @@
 - Departamentos
 - Sucursales
 - Objetivos
-- Blablabla
+- Esto es un fix
+
+Esto es una mejora de mi fix :) 
